@@ -11,6 +11,8 @@ The expectation is for you to choose **one** of the images included in the `comp
 
 The [site_copy.md](site_copy.md) file provides the language that you need, and the `images` directory provides images used in each of the comps.
 
+In order to complete these challenges, fork and clone this repository, then add HTML to the `index.html` file, and CSS to the `stylesheets/main.css` file.
+
 Feel free to organize the HTML however you would like, and create whatever styles you would like. The main goal is for you to get some practice styling a site using HTML and CSS.
 
 If you would like additional practice, feel free to attempt either or both of the remaining challenges.
